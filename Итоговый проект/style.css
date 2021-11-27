@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.diablo{
+    border-radius: 50px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding-left:20px;
+    padding-top: 10px;
+    height: 210px;
+    background-color: black;
+}
+.gelexi{
+    border-radius: 50px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding-left:20px;
+    padding-top: 10px;
+    height: 250px;
+    background-color: black;
+}
+.loop{
+    border-radius: 50px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding-left:20px;
+    padding-top: 10px;
+    height: 150px;
+    background-color: black;
+}
+.imposter{
+    border-radius: 50px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding-left:20px;
+    padding-top: 10px;
+    height: 100px;
+    background-color: black;
+}
+.hero{
+    border-radius: 50px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding-left:20px;
+    padding-top: 10px;
+    height: 150px;
+    background-color: black;
+}
+.wrath{
+    border-radius: 50px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding-left:20px;
+    padding-top: 10px;
+    height: 200px;
+    background-color: black;
+}
+.monster{
+    border-radius: 50px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding-left:20px;
+    padding-top: 10px;
+    height: 160px;
+    background-color: black;
+}
+.age{
+    border-radius: 50px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding-left:20px;
+    padding-top: 10px;
+    height: 180px;
+    background-color: black;
+}
